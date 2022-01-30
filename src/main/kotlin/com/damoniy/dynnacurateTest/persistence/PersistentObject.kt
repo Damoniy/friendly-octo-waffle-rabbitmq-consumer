@@ -1,0 +1,3 @@
+package com.damoniy.dynnacurateTest.persistence
+
+interface PersistentObject
